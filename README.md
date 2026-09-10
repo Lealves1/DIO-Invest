@@ -47,8 +47,8 @@ Durante o desenvolvimento do projeto, utilizei recursos do Excel, como:
 - Função PROCV;
 - Nomes definidos;
 - Tabelas de apoio;
-- Comparação de cenários;
-- Gráfico dinâmico de distribuição do investimento.
+- Comparador de cenários;
+- Gráfico de distribuição.
   
 ## 🛠️ Ferramenta utilizada
 
