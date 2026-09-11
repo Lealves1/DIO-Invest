@@ -1,7 +1,7 @@
 # DIO Invest — Simulador de Investimentos
 *Simulador de investimentos desenvolvido em Excel*
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 O **DIO Invest** é uma ferramenta desenvolvida no Excel para simular investimentos em Fundos de Investimento Imobiliário (FIIs).
 
@@ -66,6 +66,6 @@ Durante o desenvolvimento do projeto, utilizei recursos do Excel, como:
 
 **Microsoft Excel**
 
-## 🎯 Objetivo
+## Objetivo
 
 O objetivo do projeto é proporcionar uma ferramenta simples e acessível para auxiliar investidores iniciantes a compreenderem como aportes, prazo e rendimento podem influenciar a evolução do patrimônio e dos dividendos ao longo do tempo.
