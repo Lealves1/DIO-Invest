@@ -9,7 +9,7 @@ O projeto foi desenvolvido a partir da proposta da DIO e, durante a construção
 
 Além da estrutura proposta no desafio, acrescentei algumas funcionalidades para deixar a ferramenta mais completa e facilitar a comparação e a visualização dos resultados.
 
-## 📊 Estrutura da planilha
+## Estrutura da planilha
 
 A planilha foi organizada em diferentes etapas para facilitar o preenchimento e a visualização dos resultados:
 
@@ -20,11 +20,11 @@ A planilha foi organizada em diferentes etapas para facilitar o preenchimento e 
 - **Perfil:** distribuição do investimento de acordo com o perfil escolhido;
 - **Base de Dados:** tabela utilizada como apoio para as consultas e cálculos da planilha.
 
-### 🖥️ Visão geral da ferramenta
+### Visão geral da ferramenta
 
 ![Visão geral do DIO Invest](comparador-cenarios-1.png)
 
-## 🔄 Comparador de Cenários
+## Comparador de Cenários
 
 Uma das funcionalidades que acrescentei ao projeto foi o **Comparador de Cenários**.
 
@@ -32,11 +32,11 @@ Ele permite comparar dois cenários de investimento e visualizar qual deles apre
 
 A ideia foi facilitar a comparação entre diferentes possibilidades de investimento sem precisar analisar os resultados separadamente.
 
-### 📊 Visualização do Comparador
+### Visualização do Comparador
 
 ![Comparador de cenários](comparador-cenarios-2.png)
 
-## 📈 Gráfico de distribuição
+## Gráfico de distribuição
 
 Também acrescentei um gráfico à última tabela da planilha.
 
@@ -44,11 +44,11 @@ O gráfico **“Distribuição do Investimento por Perfil”** acompanha o perfi
 
 Dessa forma, ao alterar o perfil entre **Conservador, Moderado e Agressivo**, a distribuição apresentada no gráfico também é atualizada.
 
-### 📊 Visualização do gráfico
+### Visualização do gráfico
 
 ![Distribuição do investimento por perfil](perfil-grafico.png)
 
-## 🧮 Recursos utilizados
+## Recursos utilizados
 
 Durante o desenvolvimento do projeto, utilizei recursos do Excel, como:
 
@@ -62,7 +62,7 @@ Durante o desenvolvimento do projeto, utilizei recursos do Excel, como:
 - Comparador de cenários;
 - Gráfico de distribuição.
   
-## 🛠️ Ferramenta utilizada
+## Ferramenta utilizada
 
 **Microsoft Excel**
 
