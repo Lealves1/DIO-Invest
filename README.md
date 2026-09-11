@@ -26,11 +26,13 @@ A planilha foi organizada em diferentes etapas para facilitar o preenchimento e 
 
 ## Comparador de Cenários
 
-Uma das funcionalidades que acrescentei ao projeto foi o **Comparador de Cenários**.
+Uma das funcionalidades que acrescentei ao projeto foi o Comparador de Cenários.
 
-Ele permite comparar dois cenários de investimento e visualizar qual deles apresenta o **melhor resultado**, considerando os valores calculados pela planilha.
+Ele permite comparar dois cenários de investimento, podendo alterar o valor do investimento mensal, a taxa de rendimento mensal e o prazo em anos para cada cenário.
 
-A ideia foi facilitar a comparação entre diferentes possibilidades de investimento sem precisar analisar os resultados separadamente.
+Dessa forma, é possível testar diferentes possibilidades e visualizar qual delas apresenta o **melhor resultado**, de acordo com os valores calculados pela planilha.
+
+A ideia foi facilitar a comparação entre diferentes possibilidades de investimento, permitindo analisar os dois cenários lado a lado sem precisar fazer os cálculos separadamente.
 
 ### Visualização do Comparador
 
