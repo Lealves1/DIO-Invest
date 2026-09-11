@@ -20,6 +20,10 @@ A planilha foi organizada em diferentes etapas para facilitar o preenchimento e 
 - **Perfil:** distribuição do investimento de acordo com o perfil escolhido;
 - **Base de Dados:** tabela utilizada como apoio para as consultas e cálculos da planilha.
 
+### 🖥️ Visão geral da ferramenta
+
+![Visão geral do DIO Invest](comparador-cenarios-1.png)
+
 ## 🔄 Comparador de Cenários
 
 Uma das funcionalidades que acrescentei ao projeto foi o **Comparador de Cenários**.
@@ -28,6 +32,10 @@ Ele permite comparar dois cenários de investimento e visualizar qual deles apre
 
 A ideia foi facilitar a comparação entre diferentes possibilidades de investimento sem precisar analisar os resultados separadamente.
 
+### 📊 Visualização do Comparador
+
+![Comparador de cenários](comparador-cenarios-2.png)
+
 ## 📈 Gráfico de distribuição
 
 Também acrescentei um gráfico à última tabela da planilha.
@@ -35,6 +43,10 @@ Também acrescentei um gráfico à última tabela da planilha.
 O gráfico **“Distribuição do Investimento por Perfil”** acompanha o perfil selecionado e apresenta visualmente como o investimento é distribuído entre os diferentes tipos de FIIs.
 
 Dessa forma, ao alterar o perfil entre **Conservador, Moderado e Agressivo**, a distribuição apresentada no gráfico também é atualizada.
+
+### 📊 Visualização do gráfico
+
+![Distribuição do investimento por perfil](perfil-grafico.png)
 
 ## 🧮 Recursos utilizados
 
